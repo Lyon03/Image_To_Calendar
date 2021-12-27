@@ -38,5 +38,13 @@ ii) Select Tables as we are converting a jpeg/png file to a tabular format (csv)
 
   i) Click Model Settings which would give you your __model ID__
   ![nanonetsModelSettings](https://user-images.githubusercontent.com/53299215/147349088-64055076-5df5-44de-bd34-7c956bd55873.png)
-  ii) **Make sure to copy your modelID and save it in a text file in the same directory as the scipt named ```nanonetsInfo.txt```**
+  
+  ii) **Make sure to copy your modelID and save it in the text file named ```nanonetsInfo.txt```** in the second line 
   ![nanonetsModelId](https://user-images.githubusercontent.com/53299215/147349196-141a123d-56d5-4ed7-9fec-e13cdfa4fb39.png)
+ 
+#### Setting Up Google Calendar API
+1) Create a [google cloud account](https://cloud.google.com/) (different from a regular google account) if you don't have an existing one.
+2) Go to this [link](console.cloud.google.com) where you will need to create a project and enable calendar API. 
+3) Go to Credentials and create an OAuth2.0 client, in this script's case you would need to select it Desktop app and feel free to name it whatever you feel is apt.
+4) After doing so, download the credentials as a json file (which is the default) and rename it to ```client_secret.json``` in the same directory/folder as the the python files.
+For more information regarding this setup you may follow this [tutorial](https://support.google.com/cloud/answer/6158849?hl=en)
