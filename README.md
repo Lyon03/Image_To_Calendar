@@ -16,7 +16,7 @@ There are two APIs in use for this script to run successfully
 * [Google Calendar API](https://developers.google.com/calendar/api), which adds the events to the user's google calendar.
 
 #### Setting Up Nanonets
-Create an account if you don't have one in [Nanonets](https://nanonets.com/). We essentailly need two things - your **API key** and **Model ID**, which need to be stored in a text file in seperate lines respectively in the same directory as your script.
+Create an account if you don't have one in [Nanonets](https://nanonets.com/). We essentially need two things - your **API key** and **Model ID**, which need to be stored in a text file in seperate lines respectively in the same directory as your script.
 
 i) After Logging in, create a new model by clicking on the New Model button 
 ![nanonetsimageoffrontpage](https://user-images.githubusercontent.com/53299215/147347071-86642fcc-8fd4-4bcc-a8a9-11191cf69b79.png)
