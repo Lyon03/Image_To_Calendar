@@ -56,5 +56,5 @@ For more information regarding this setup you may follow this [tutorial](https:/
 ![calendarName](https://user-images.githubusercontent.com/53299215/147529293-92ad0a5b-f65a-4d3a-964f-bf8449cde42f.png)
 
 ## Contact Me
-If you face any issues or have any questions feel free to contact me on [LinkedIn](www.linkedin.com/in/joel-james-318593220)
+If you face any issues or have any questions feel free to contact me on LinkedIn : www.linkedin.com/in/joel-james-318593220
 
