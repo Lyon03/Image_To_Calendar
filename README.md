@@ -48,3 +48,13 @@ ii) Select Tables as we are converting a jpeg/png file to a tabular format (csv)
 3) Go to Credentials and create an OAuth2.0 client, in this script's case you would need to select it Desktop app and feel free to name it whatever you feel is apt.
 4) After doing so, download the credentials as a json file (which is the default) and rename it to ```client_secret.json``` in the same directory/folder as the the python files.
 For more information regarding this setup you may follow this [tutorial](https://support.google.com/cloud/answer/6158849?hl=en)
+
+## Customising & Running The Code
+1) Make sure to have the screenshot of the timetable in the highest quality possible in the same directory as your python files.
+2) Change the value of ```pathOfImage``` to the absolute or relative path of the image, by default the name of the file is to be 'timetable.png'
+3) You may change the variable ```calendarName```  to change the name of the calendar which appears in your calendar
+![calendarName](https://user-images.githubusercontent.com/53299215/147529293-92ad0a5b-f65a-4d3a-964f-bf8449cde42f.png)
+
+## Contact Me
+If you face any issues or have any questions feel free to contact me on [LinkedIn](www.linkedin.com/in/joel-james-318593220)
+
